@@ -1,6 +1,6 @@
 # Nested sets
 
-These examples are referenced by the article [Storing deep hierarchies in a database](). They require a [MySQL](https://dev.mysql.com/) installation, although they should be easily portable to other relational database engines.
+These examples are referenced by the article [Storing deep hierarchies in a database](https://medium.com/@bobbyjack/storing-deep-hierarchies-in-a-database-153c77f66756). They require a [MySQL](https://dev.mysql.com/) installation, although they should be easily portable to other relational database engines.
 
 Run `setup.sql` first, with a command such as:
 
