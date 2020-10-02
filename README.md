@@ -1,4 +1,4 @@
-# Walking the DOM
+# Nested sets
 
 These examples are referenced by the article [Storing deep hierarchies in a database](). They require a [MySQL](https://dev.mysql.com/) installation, although they should be easily portable to other relational database engines.
 
